@@ -10,9 +10,10 @@
 /wp-content/languages/
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
+/wp-content/themes/*
 
-/wp-content/themes/
-!/wp-content/themes/genesis
+# Keep Genesis
+!/wp-content/themes/genesis/
 !/wp-content/themes/genesis-sample-develop/
 
 # Configuration and Environment
